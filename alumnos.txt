@@ -1,0 +1,3 @@
+1330494,Bernardo Reyes,PyMES,bernardo@correo.com,8342132345
+1049454,Samuel Robles,Ing. Tecnologias,luis_nexus@hotmail.com,8321025478
+ALUM:01,Daniel Geronimo,Ing Tecnologias,elbabo_@hotmail.com,2147483647

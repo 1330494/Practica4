@@ -1,0 +1,3 @@
+EMP-01,Franky Rivers,Tec. Manufactura,8341214647
+EMP-02,Luis Gomez C.,Ing. Mecatronica,8147483647
+EMP-03,Yazmin Roque,Ingenieria de Corazon,8324548217
